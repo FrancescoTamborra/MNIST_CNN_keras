@@ -1,2 +1,4 @@
 # MNIST_CNN_keras
-Using a CNN with keras for classification of handwritten digits
+Using a Convolutional Neural Network (CNN) with keras for for image classification
+
+#ComputerVision #CNN #MachineLearning #Classification
